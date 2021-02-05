@@ -1,7 +1,7 @@
 import React from "react";
 
-function Booksearch() {
+function Search() {
   return <div></div>;
 }
 
-export default Booksearch;
+export default Search;
