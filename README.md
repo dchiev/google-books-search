@@ -1,29 +1,48 @@
-# Create React Express App
+# Google Books Search
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## About This Boilerplate
+  ## Description
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+  Find your favorite books via Google's API and save them!
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+  ## Table of Contents
 
-## Starting the app locally
+  *[Installation](#installation)
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+  *[Usage](#usage)
 
-```
-npm install
-```
+  *[License](#license)
 
-This should install node modules within the server and the client folder.
+  *[Contributing](#contributing)
 
-After both installations complete, run the following command in your terminal:
+  *[Tests](#tests)
 
-```
-npm start
-```
+  *[Questions](#questions)
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+  # Installation 
 
-## Deployment (Heroku)
+  To install necessary dependencies, run the following command:
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+  npm install
+  
+  ## Usage 
+
+  Make sure to install on dependencies and use npm start if running locally!
+
+  ## License
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Contributing
+
+  n/a
+
+  ## Tests
+
+  To run tests, run the following command: 
+
+  N/A
+
+  ## Questions
+
+  If you have any questions about the repo, contact me directly at danchiev2@gmail.com. You can find more of my work at [github.com/dchiev](github.com/dchiev) 
