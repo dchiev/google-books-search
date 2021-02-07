@@ -1,8 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Navbar from "react-bootstrap/Navbar";
-import Saved from "./components/Saved";
-import Search from "./components/Search";
+import Saved from "./pages/Saved";
+import Search from "./pages/Search";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
 export default function App() {
   return (
@@ -22,8 +24,6 @@ export default function App() {
           </ul>
         </nav>
 
-        {/* A <Switch> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/saved">
             <Saved />
