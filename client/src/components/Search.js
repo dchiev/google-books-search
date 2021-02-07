@@ -1,6 +1,6 @@
 import React from "react";
 import { Form, Button } from "react-bootstrap";
-import Results from "./Results";
+
 
 const Search = (props) => {
   return (
