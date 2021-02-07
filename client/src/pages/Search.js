@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
 import Search from "../components/Search";
-import Results from "../components/Results";
+
 
 const GOOGLE_API_KEY = "AIzaSyD1pnWyRtFqa5lLqlh23CY289fpktYotIE";
 
